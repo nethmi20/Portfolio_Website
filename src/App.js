@@ -19,7 +19,7 @@ const portfolioData = {
     linkedin: "https://linkedin.com/in/nethmi-wijeweera",
     github: "https://github.com/nethmi20"
   },
-  summary: `Motivated IT undergraduate and aspiring Software Engineer with a specialized focus on Artificial Intelligence and Full-Stack Development. Recognized for a proven ability to architect scalable backend infrastructure, optimize complex data pipelines, and train highly accurate machine learning models. Blending academic excellence with hands-on industry internship experience, I possess a deep understanding of modern development practices and agile methodologies. As a collaborative and adaptable team player, I excel at dissecting complex technical challenges and delivering robust, seamless solutions within dynamic, fast-paced environments.`,
+  summary: `Motivated IT undergraduate and aspiring Software Engineer specializing in Artificial Intelligence and Full-Stack Development. Proven ability to architect scalable backend infrastructure, optimize data pipelines, and train high-accuracy machine learning models. Blending academic excellence with hands-on internship experience, I possess a deep understanding of Agile methodologies and modern development practices. A collaborative problem-solver, I excel at delivering reliable solutions in fast-paced environments.`,
   education: [
     {
       school: "University of Moratuwa - Faculty of Information Technology",
@@ -59,7 +59,7 @@ const portfolioData = {
       name: "Ayurvedic Powder Mixtures Identification",
       type: "Final Year Project",
       tech: ["Python", "OpenCV", "TensorFlow", "AI/ML"],
-      desc: "Developed an image-based system for Ayurvedic ingredient identification using particle size categorization (Fine-2/Fine-3). I applied shape, texture, and color feature extraction to train machine learning models for multi-label classification."
+      desc: "Developed an image-based system for Ayurvedic ingredient identification using particle size categorization (Fine-2/Fine-3). I applied texture, and color feature extraction to train machine learning models for multi-label classification."
     },
     {
       name: "AgriGen ERP System",
